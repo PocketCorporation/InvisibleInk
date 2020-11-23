@@ -1,2 +1,2 @@
 # InvisibleInk
-Neumorphic Text Transition
+Neumorphic Text Transition (Desktop)
